@@ -21,8 +21,8 @@
     "react"
   ],
   "dependencies": {
-    "react-bootstrap": "0.27.1",
-    "warning": "^2.1.0"
+    "react-bootstrap": ">=0.27.1",
+    "warning": ">=2.1.0"
   },
   "peerDependencies": {
     "react": ">=0.14.0",
